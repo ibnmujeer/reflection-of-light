@@ -3,7 +3,7 @@
   "short_name": "Reflection",
   "start_url": "./",
   "display": "fullscreen",
-  "orientation": "landscape",
+  "orientation": "any",
   "background_color": "#0b1020",
   "theme_color": "#0b1020",
   "icons": [
